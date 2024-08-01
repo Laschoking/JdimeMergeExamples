@@ -1,6 +1,6 @@
 class ValueChange {
 
     void valueChange() {
-        int a = 0;
+        int a = 1;
     }
 }
