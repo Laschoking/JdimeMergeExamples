@@ -1,7 +1,7 @@
 class ValueChange {
 
     int val() {
-        return 1;
+        return 0;
     }
 
     void use() {
