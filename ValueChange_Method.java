@@ -6,5 +6,6 @@ class ValueChange {
 
     void use() {
         int a = val();
+        int b = 10 / a;
     }
 }
