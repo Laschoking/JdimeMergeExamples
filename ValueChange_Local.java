@@ -5,5 +5,7 @@ class ValueChange {
         int b = 10 / a;
 	int normal = 0;
 
+	int normal = 0;
+	int c = 0;
     }
 }
